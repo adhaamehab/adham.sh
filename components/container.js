@@ -23,6 +23,7 @@ export default function Container(props) {
           className="bg-gray-200 dark:bg-gray-800 rounded p-3 h-10 w-10"
           onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
         >
+            {console.log({mounted, theme})}
           {mounted && (
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -51,7 +52,6 @@ export default function Container(props) {
         </button>
       </nav>
       <main
-        id="skip"
         className="flex flex-col justify-center bg-white dark:bg-black px-8"
         >
         {children}
