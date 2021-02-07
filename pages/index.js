@@ -12,9 +12,8 @@ export default function Home() {
         </h1>
         <h2 className="prose text-gray-600 dark:text-gray-400 mb-16">
           This is a work in progress!
-          I'm a Software Engineer from Egypt. 
-          I currently work for Statsbomb.
-          A leading Sports Data Company in England
+          I'm a Software Engineer from Egypt.
+          I currently work for Statsbomb. A leading Sports Data Company in England
         </h2>
         <Timeline />
       </div>

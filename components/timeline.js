@@ -153,7 +153,7 @@ export default function Timeline() {
       </h3>
       <Year>2014</Year>
       <ul>
-        <Step title="Graduated High School and Joined Ainshams University to Study Computer Science.">
+        <Step title="Accepted at AinShams Computer Science College">
         </Step>
       </ul>
       <Divider />
@@ -162,7 +162,7 @@ export default function Timeline() {
         <Step title="Ranked 7th in the first year of college"></Step>
         <Step title="First summer Internship @ABMegypt"></Step>
         <Step title="Learned Python."></Step>
-        <Step title="First Fulltime job @Tajjer"></Step>
+        <Step title="First Fulltime job @ Tajjer"></Step>
         <Step title="Wrote PHP, JS, SQL and Bash for the 1st time"></Step>
       </ul>
       <Divider />
@@ -170,7 +170,7 @@ export default function Timeline() {
       <ul>
         <Step title="Ranked 6th in ACM-ASU contest."></Step>
         <Step title="Left Fulltime for the lack of mentorship."></Step>
-        <Step title="Second Internshi @ABMegypt"></Step>
+        <Step title="Second Internshi @ ABMegypt"></Step>
         <Step title="Joined the same team Full time Engineer."></Step>
         <Step title="Used Go, Docker, Jenkins, Postgres, Redis and AWS."></Step>
         <Step title="First open source contribution."></Step>
