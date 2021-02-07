@@ -153,7 +153,7 @@ export default function Timeline() {
       </h3>
       <Year>2014</Year>
       <ul>
-        <Step title="Accepted at AinShams Computer Science College">
+        <Step title="Started Computer Science @ Ainshams Uni.">
         </Step>
       </ul>
       <Divider />
@@ -170,7 +170,7 @@ export default function Timeline() {
       <ul>
         <Step title="Ranked 6th in ACM-ASU contest."></Step>
         <Step title="Left Fulltime for the lack of mentorship."></Step>
-        <Step title="Second Internshi @ ABMegypt"></Step>
+        <Step title="Second internship @ ABMegypt"></Step>
         <Step title="Joined the same team Full time Engineer."></Step>
         <Step title="Used Go, Docker, Jenkins, Postgres, Redis and AWS."></Step>
         <Step title="First open source contribution."></Step>
@@ -195,18 +195,18 @@ export default function Timeline() {
       <ul>
         <Step title="Got promoted to a Senior Software Engineer."></Step>
         <Step title="Wrote an article for Towards Data Science"></Step>
-        <Step title="Keynote speaker in Ainshams Computer Vision Conference"></Step>
+        <Step title="Keynote speaker at Ainshams CV Conference"></Step>
         <Step title="Graduated from College"></Step>
         <Step title="Learned Apache beam, Apache kafka & DDD"></Step>
         <Step title="Go (again), k8s, Terraform, AWS & Cloud Native."></Step>
-        <Step title="Got Engaged to best friend."></Step>
+        <Step title="Engaged to my best friend."></Step>
        </ul>
       <Divider />
       <Year>2020</Year>
       <ul>
         <Step title="The Pandemic started"></Step>
         <Step title="First contribution to a Cloud Native project."></Step>
-        <Step title="Left Statsbomb for Compulsory military service."></Step>
+        <Step title="Left Statsbomb to do Compulsory military service."></Step>
         <Step title="Started postgraduate Studies"></Step>
         <Step title="14 technical book in the first half of 2020"></Step>
         <Step title="DevOps Engineer @ Statsbomb"></Step>
