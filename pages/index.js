@@ -36,7 +36,7 @@ export default function Home() {
           </div>
         </section>
         <div></div>
-        <Timeline />
+        {/* <Timeline /> */}
       </div>
     </Container>
   );
