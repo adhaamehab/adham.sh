@@ -22,15 +22,15 @@ export default function Home() {
             </h2>
             <h2 class="text-left text-black dark:text-white">
               <div>
-                I'm currently working on building the smartest sports data
-                analytics platform at Statsbomb.
+                I'm currently part of the platform team at
+                [Statsbomb](https://statsbomb.com).
               </div>
               <div>
-                Before that I worked in a variety of roles between data science,
-                natural language processing and software engineering. I'm
-                particularly interested in the intersection of distributed
-                systems, applied machine learning, product and software
-                engineering.
+                Before that, I worked in a variety of roles mainly in the
+                intersection of software engineering, data and machine learning.
+                I'm particularly interested in distributed systems and
+                everything around it. Including containers, cloud,
+                observability, data and products.
               </div>
             </h2>
           </div>
