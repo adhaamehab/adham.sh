@@ -26,7 +26,7 @@ export default function Home() {
                 Before that I was an early engineer at <a href="https://statsbomb.com">Statsbomb</a> the leading sports data company in the world.
               </div>
               <div>
-                I also got worked in a variety of roles mainly in the
+                I also worked in a variety of roles mainly in the
                 intersection of software engineering, data and machine learning.
                 I'm particularly interested in distributed systems and
                 everything around it. Including containers, cloud,
