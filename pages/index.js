@@ -21,12 +21,12 @@ export default function Home() {
               I'm a Software Engineer from Cairo, Egypt 🇪🇬
             </h2>
             <h2 class="text-left text-black dark:text-white">
+              <div>I'm currently leading the infrastructure and platform team at <a href="https://factmata.com">Factmata</a> </div>
               <div>
-                I'm currently part of the platform team at
-                [Statsbomb](https://statsbomb.com).
+                Before that I was an early engineer at <a href="https://statsbomb.com">Statsbomb</a> the leading sports data company in the world.
               </div>
               <div>
-                Before that, I worked in a variety of roles mainly in the
+                I also got worked in a variety of roles mainly in the
                 intersection of software engineering, data and machine learning.
                 I'm particularly interested in distributed systems and
                 everything around it. Including containers, cloud,
