@@ -18,10 +18,10 @@ export default function Home() {
               Hi, I'm Adham 👋
             </h1>
             <h2 class="font-bold text-xl md:text-xl tracking-tight mb-4 text-black dark:text-white">
-              I'm a Software Engineer from Cairo, Egypt 🇪🇬
+              I'm a Senior Site Reliability Engineer from Cairo, Egypt 🇪🇬
             </h2>
             <h2 class="text-left text-black dark:text-white">
-              <div>I'm currently leading the infrastructure and platform team at <a href="https://factmata.com">Factmata</a> </div>
+              <div>I'm currently leading the infra team at <a href="https://factmata.com">Factmata</a>.</div>
               <div>
                 Before that I was an early engineer at <a href="https://statsbomb.com">Statsbomb</a> the leading sports data company in the world.
               </div>
