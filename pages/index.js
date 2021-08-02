@@ -31,7 +31,7 @@ export default function Home() {
                 I'm particularly interested in distributed systems and
                 everything around it. Including containers, cloud,
                 observability, data and products.
-                My resume is <a href="https://docs.google.com/document/d/1q_vLS6R58x29dR4K8pxeiOK1tf9TwlSFYStdB-E-aow/edit>here</a>
+                My resume is <a href="https://docs.google.com/document/d/1q_vLS6R58x29dR4K8pxeiOK1tf9TwlSFYStdB-E-aow/edit">here</a>
               </div>
             </h2>
           </div>
