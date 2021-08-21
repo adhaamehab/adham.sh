@@ -22,8 +22,7 @@ export default function Home() {
             </h2>
             <h2 class="text-left text-black dark:text-white">
               <div>
-                I'm currently leading the SRE Team at
-                <a href="https://factmata.com"> Factmata</a>. Where we are
+                I'm currently working at <a href="https://factmata.com"> Factmata</a> as a Staff Site Reliability Engineer. Where we are
                 working on fighting misinformation and fake news.
               </div>
               <div>
