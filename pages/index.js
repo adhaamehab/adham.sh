@@ -12,22 +12,27 @@ export default function Home() {
             <h1 class="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
               Hi, I'm Adham 👋
             </h1>
-            <h2 class="font-bold text-xl md:text-xl tracking-tight mb-4 text-black dark:text-white">
-             <div>
-              I am a Senior Staff Software Engineer at <a href="https://cision.com"> Cision </a>.
+            <h3 class="text-xl md:text-xl tracking-tight mb-4 text-black dark:text-white">
               <div>
-            </h2>
+                I am a Senior Staff Software Engineer at <a href="https://cision.com"> Cision </a>, where I work on building large-scale Data and ML Platform.
+              </div>
+            </h3>
             <h2 class="text-left text-black dark:text-white">
               <div>
-                Before that, I was the Head of Engineering at <a href="https://factmata.com"> Factmata</a>, Where we got aquired by Cision.
+                Previously, I led the engineering team at <a href="https://factmata.com"> Factmata</a>, a ML startup fighting fake-news and misinformation where we got acquired by Cision.
+                I was also part of the early team at <a href="https://arqamfc.com"> ArqamFC </a> (Acquired by) <a href="https://statsbomb.com"> Statsbomb </a> where we worked on building the most advanced sports analytics platform in the world.
+              </div>
               <div>
-                I also worked at <a href="https://arqamfc.com"> Arqam </a> where we got acquired by <a href="https://statsbomb.com"> Statsbomb </a>. I 
+                Before that, I worked at different startups and software firms in the MENA region, where I was mainly focused on scaling data systems.
               </div>
             </h2>
+            <div>
+              <div class="text-xl md:text-xl tracking-tight mb-4 text-black dark:text-white"> You can reach out to me anytime on <a href="https://twitter.com/_adhameh"> Twitter </a> or <a href="emailto:adham.ehab@hey.com"> Email </a> </div>
+            </div>
           </div>
         </section>
-        <div></div>
-        {/* <Timeline /> */}
+
+
       </div>
     </Container>
   );
